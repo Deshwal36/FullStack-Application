@@ -1,0 +1,23 @@
+button{
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: yellow;
+    padding: 15px;
+    width: 100px;
+    
+}
+
+.count{
+    color: rebeccapurple;
+    font-size: 50px;
+    padding : 15px 30px;
+}
+
+.reset{
+    background-color:  red;
+}
+
+body{
+    padding : 15px 30px;
+
+}
